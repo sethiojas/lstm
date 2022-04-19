@@ -1,0 +1,3 @@
+https://www.analyticsvidhya.com/blog/2021/12/sentiment-analysis-on-tweets-with-lstm-for-beginners/
+
+http://nlp.stanford.edu/data/glove.6B.zip
